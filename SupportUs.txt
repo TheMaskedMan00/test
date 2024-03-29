@@ -14,9 +14,10 @@ Cheers! ($100): Custom Drink, A Poster Here (Permanent and free to change)
 <size=8>
 All Supporters will get their name on the supporter board forever!
 The ‘Cheers!’ Tier can be a one time purchase, or you can stay subscribed to it to get one free custom drink every month!
-<b><u><size=10>You can only have a maximum of 5 custom drinks<size=5></u> (for now)
-<size=8>
-All Tiers include the previous Tiers Benefits.
-</b>
+<b><u><size=10>You can only have a maximum of 5 custom drinks<size=5></u> (for now)<size=8>
+All Tiers include the previous Tiers Benefits.</b>
 
 <i>If you are found to be abusing your whitelist powers, it may be taken away with no refund.</i>
+
+<size=20><align="center">DM 'thekibblemeister' on
+Discord if Interested
