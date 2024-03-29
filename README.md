@@ -1,0 +1,1 @@
+this is just my curde webserver for my vrchat world, vrchat does not have dynamic url setting yet, so if someone starts supporting us on patreon, i dont wanna have to update the world each time. So im just using this to be able to override things without the url changing
