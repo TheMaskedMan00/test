@@ -1,11 +1,11 @@
 <size=25>Wanna support us?</size=25>
 
 All payments are currenty closed
-Because Kibble is at twitchcon.
-<size=8>Message '.themaskedman00.' on
+Because Kibble is at twitchcon.<size=8>
+Message '.themaskedman00.' on
 Discord if you have any questions
 or concerns.
-<size=20>
+</size=8>
 By becoming a supporter,
 You can get the following Perks:
 <align="left"><size=10>
