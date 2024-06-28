@@ -2,10 +2,10 @@
 
 All payments are currenty closed
 Because Kibble is at twitchcon.
-Message '.themaskedman00.' on
+<size=8>Message '.themaskedman00.' on
 Discord if you have any questions
 or concerns.
-
+<size=20>
 By becoming a supporter,
 You can get the following Perks:
 <align="left"><size=10>
